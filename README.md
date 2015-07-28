@@ -25,3 +25,12 @@ Using [Gulp](http://gulpjs.com/) to manage frontend tasks, with [SCSS](http://sa
 ## App
 
 The app is built with [React](http://facebook.github.io/react/).
+
+## Broser support
+IE8
+
+React
+https://facebook.github.io/react/docs/working-with-the-browser.html
+https://github.com/es-shims/es5-shim
+https://github.com/paulmillr/console-polyfill
+https://github.com/aFarkas/html5shiv
